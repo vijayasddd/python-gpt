@@ -1,0 +1,1 @@
+python3 -m pip install EdgeGPT==0.10.16
